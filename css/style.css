@@ -1,0 +1,5 @@
+* {margin: 0; padding: 0}
+li { list-style: none}
+header { height: 70px; background-color: #000;}
+h1 { padding: 20px; color: #fff; float: left}
+.category li {float:left; color: #fff; line-height: 70px; padding: 0 20px 0 20px}
